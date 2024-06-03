@@ -1,0 +1,152 @@
+/* before oldin */
+/* after keyin */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+body {}
+
+
+
+
+.squire {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+header {
+    background-color: black;
+}
+
+
+select {
+    display: flex;
+    gap: 40px;
+    background-color: black;
+    color: white;
+    border: none;
+    font-size: 20px;
+    font-weight: 700px;
+
+}
+
+
+.container {
+    width: 1440px;
+    margin: 0 auto;
+
+}
+
+
+nav {
+    padding: 10px;
+
+}
+
+.num {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    align-items: center;
+}
+
+.van {
+    width: 192px;
+    padding: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color:
+        rgba(241, 169, 0, 1);
+
+}
+
+
+.asistent {
+    display: flex;
+    justify-content: center;
+    gap: 101px;
+}
+
+main {
+    background-color:
+        rgba(34, 34, 34, 1);
+}
+
+
+ul {
+    display: flex;
+    gap: 101px;
+    justify-content: space-around;
+}
+
+ul li a {
+    font-size: 20px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ln {
+    background-color:
+        rgba(34, 34, 34, 1);
+}
+
+
+
+section {
+    background-image: url(image\ 5.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+.referb {
+    width: 192px;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color:
+        rgba(241, 169, 0, 1);
+    border: none;
+
+}
+
+
+.bag {
+    padding: 190px;
+    text-align: center;
+}
+
+
+.sezor {
+    width: 192px;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    border: none;
+    margin-left: 82px;
+}
+
+
+.kl {
+    color: white;
+    font-size: 64px;
+    font-weight: bold;
+    margin-top: -140px;
+}
+
+
+footer {
+    background-color: black;
+}
